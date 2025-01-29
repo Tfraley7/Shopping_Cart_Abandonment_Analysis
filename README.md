@@ -96,5 +96,7 @@
     <li>Feature Importance Chart from the Model</li>
 </ul>
 
+<h2>Data Source: https://www.kaggle.com/datasets/mkechinov/ecommerce-events-history-in-electronics-store</h2>
+
 </body>
 </html>
